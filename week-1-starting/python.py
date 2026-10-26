@@ -1,4 +1,4 @@
-#wap to check whether the given integer is single digit or two  or three digits or more than three digits.
+#wap to check whether the given integer is single digit or two  or three digits or more than three 
 n=int(input("enter number;"))
 if 0<=n<=9:
     print("single digit")
@@ -14,7 +14,7 @@ else:
 # consider a character input if it is uppercase convet it into lowercase,if it is lowercase convert it into uppercase ,if it is digit print the reminder when it is divided by 3 else if it is special character print it ASCII value 
 
 # ch=input ("enter a character?:")
-# if 'A'<=ch<='Z':``
+# if'A'<=ch<='Z':``
 #     res =chr(ord(ch)+32 )
 #     print (res)                                  # ascii value means upper case madhun lower case madhye convert kartan use kartat
 # elif 'a'<=ch<='z':
