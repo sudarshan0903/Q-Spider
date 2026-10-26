@@ -1,4 +1,4 @@
-#wap to check whether the given integer is single digit or two digits or three digits or more than three digits.
+#wap to check whether the given integer is single digit or two  or three digits or more than three digits.
 n=int(input("enter number;"))
 if 0<=n<=9:
     print("single digit")
